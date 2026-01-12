@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "Copy of App2222",
+  "description": ""
+}
